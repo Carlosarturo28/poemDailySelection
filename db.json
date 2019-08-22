@@ -1,4 +1,6 @@
 {
-  "poem": "A Dream Within A Dream",
-  "poet": "Edgar Allan Poe"
+  "data": {
+    "poem": "A Dream Within A Dream",
+    "poet": "Edgar Allan Poe"
+  }
 }
