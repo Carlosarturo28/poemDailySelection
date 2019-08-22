@@ -1,6 +1,11 @@
-[
-  {
-  "title": "A Dream Within A Dream",
-  "author": "Edgar Allan Poe"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
